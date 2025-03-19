@@ -1,1 +1,1 @@
-# VisiumHD_Spatial_Leiomyoma
+# VisiumHD_Spatial_Transcriptomics_Leiomyoma
